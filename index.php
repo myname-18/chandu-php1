@@ -7,7 +7,7 @@
 <style>
   .form-control
  {
-  background: linear-gradient(to bottom left, #ff99cc 0%, #ffffff 100%);
+background: linear-gradient(to bottom, #ffffff 0%, #0000ff 100%);
 
  }
 
